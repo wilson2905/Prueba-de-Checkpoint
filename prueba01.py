@@ -1,7 +1,8 @@
 ##INICIO DE CODIGO DE PRUEBA
 
 
-a=1
-b=2
-c=a+b
-print (c)
+
+variable_a=9
+variable_b=4
+variable_c=variable_a+variable_b
+print (variable_c)
